@@ -1,0 +1,2 @@
+Tables {history}
+Where {[history].modified_reason IN ( 'HCR', 'HEN' )}

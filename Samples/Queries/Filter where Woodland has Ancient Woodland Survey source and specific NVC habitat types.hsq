@@ -1,0 +1,2 @@
+Tables {incid, incid_sources}
+Where {[incid].ihs_habitat LIKE 'WB%' AND [incid_sources].source_id IN ( 11, 12 ) AND ([incid_sources].source_habitat_type LIKE 'NVC-W8%' OR [incid_sources].source_habitat_type LIKE 'NVC-W10%' OR [incid_sources].source_habitat_type LIKE 'NVC-W12%' )}

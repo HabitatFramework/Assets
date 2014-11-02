@@ -1,0 +1,2 @@
+Tables {history}
+Where {[history].modified_process = 'GIU'}

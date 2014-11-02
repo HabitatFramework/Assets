@@ -1,0 +1,2 @@
+Tables {incid}
+Where {[incid].last_modified_user_id = 'Martin Harvey (BMERC)'}

@@ -1,0 +1,2 @@
+Tables {incid, incid_mm_polygons}
+Where {[incid].ihs_habitat LIKE 'G%' AND [incid_mm_polygons].ihs_summary NOT LIKE '%GM%'}

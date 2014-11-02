@@ -1,0 +1,2 @@
+Tables {incid_ihs_formation}
+Where {[incid_ihs_formation].formation = 'AP11'}

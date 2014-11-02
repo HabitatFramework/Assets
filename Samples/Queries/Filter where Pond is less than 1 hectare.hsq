@@ -1,0 +1,2 @@
+Tables {incid_ihs_formation, incid_mm_polygons}
+Where {[incid_ihs_formation].formation LIKE 'AP1%' AND [incid_mm_polygons].shape_area < 10000}

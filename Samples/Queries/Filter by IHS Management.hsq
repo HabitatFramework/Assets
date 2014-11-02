@@ -1,0 +1,2 @@
+Tables {incid_ihs_management, incid_ihs_management}
+Where {[incid_ihs_management].management = 'GM22' OR [incid_ihs_management].management = 'GM3'}

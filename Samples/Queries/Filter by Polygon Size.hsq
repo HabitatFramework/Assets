@@ -1,0 +1,2 @@
+Tables {incid_mm_polygons}
+Where {[incid_mm_polygons].shape_area >=  2000 AND [incid_mm_polygons].shape_area <= 5000}

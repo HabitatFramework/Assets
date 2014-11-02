@@ -1,0 +1,2 @@
+Tables {incid}
+Where {[incid].general_comments LIKE '%ASNW%'}
